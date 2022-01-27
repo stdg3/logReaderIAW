@@ -1,0 +1,430 @@
+{
+    "25.10.2021": {
+        "Andy Bernard": {
+            "Break time": "0:0",
+            "CheckIn": "08:12",
+            "CheckOut": "16:22",
+            "Over time": "0:0",
+            "Worked": "8:10"
+        },
+        "Angela Martin": {
+            "Break time": "0:0",
+            "CheckIn": "08:16",
+            "CheckOut": "16:51",
+            "Over time": "0:5",
+            "Worked": "8:35"
+        },
+        "Creed Bratton": {
+            "Break time": "0:0",
+            "CheckIn": "08:52",
+            "CheckOut": "17:34",
+            "Over time": "0:12",
+            "Worked": "8:42"
+        },
+        "Darryl Philbin": {
+            "Break time": "0:0",
+            "CheckIn": "09:12",
+            "CheckOut": "17:51",
+            "Over time": "0:9",
+            "Worked": "8:39"
+        },
+        "Dwight Schrute": {
+            "Break time": "0:0",
+            "CheckIn": "06:43",
+            "CheckOut": "15:19",
+            "Over time": "0:6",
+            "Worked": "8:36"
+        },
+        "Jim Halpert": {
+            "Break time": "0:0",
+            "CheckIn": "07:22",
+            "CheckOut": "16:06",
+            "Over time": "0:14",
+            "Worked": "8:44"
+        },
+        "Kelly Kapoor": {
+            "Break time": "0:0",
+            "CheckIn": "08:29",
+            "CheckOut": "17:05",
+            "Over time": "0:6",
+            "Worked": "8:36"
+        },
+        "Kevin Malone": {
+            "Break time": "0:0",
+            "CheckIn": "09:33",
+            "CheckOut": "20:30",
+            "Over time": "2:27",
+            "Worked": "10:57"
+        },
+        "Meredith Palme": {
+            "Break time": "0:0",
+            "CheckIn": "09:33",
+            "CheckOut": "20:30",
+            "Over time": "2:27",
+            "Worked": "10:57"
+        },
+        "Michael Scott": {
+            "Break time": "0:45",
+            "CheckIn": "07:00",
+            "CheckOut": "18:24",
+            "Over time": "2:9",
+            "Worked": "10:39"
+        },
+        "Oscar Martinez": {
+            "Break time": "0:0",
+            "CheckIn": "09:42",
+            "CheckOut": "19:34",
+            "Over time": "1:22",
+            "Worked": "9:52"
+        },
+        "Pam Beesly": {
+            "Break time": "0:30",
+            "CheckIn": "07:25",
+            "CheckOut": "16:23",
+            "Over time": "0:0",
+            "Worked": "8:28"
+        },
+        "Phyllis Vance": {
+            "Break time": "0:0",
+            "CheckIn": "10:14",
+            "CheckOut": "16:17",
+            "Over time": "0:0",
+            "Worked": "6:3"
+        },
+        "Ryan Howard": {
+            "Break time": "0:0",
+            "CheckIn": "07:52",
+            "CheckOut": "16:51",
+            "Over time": "0:29",
+            "Worked": "8:59"
+        },
+        "Stanley Hudson": {
+            "Break time": "0:35",
+            "CheckIn": "10:33",
+            "CheckOut": "19:36",
+            "Over time": "0:0",
+            "Worked": "8:28"
+        },
+        "Toby Flenderson": {
+            "Break time": "0:0",
+            "CheckIn": "08:29",
+            "CheckOut": "18:30",
+            "Over time": "1:31",
+            "Worked": "10:1"
+        }
+    },
+    "26.10.2021": {
+        "Andy Bernard": {
+            "Break time": "0:0",
+            "CheckIn": "08:14",
+            "CheckOut": "16:27",
+            "Over time": "0:0",
+            "Worked": "8:13"
+        },
+        "Angela Martin": {
+            "Break time": "0:0",
+            "CheckIn": "09:34",
+            "CheckOut": "18:07",
+            "Over time": "0:3",
+            "Worked": "8:33"
+        },
+        "Creed Bratton": {
+            "Break time": "0:0",
+            "CheckIn": "08:58",
+            "CheckOut": "17:30",
+            "Over time": "0:2",
+            "Worked": "8:32"
+        },
+        "Darryl Philbin": {
+            "Break time": "0:0",
+            "CheckIn": "09:01",
+            "CheckOut": "17:33",
+            "Over time": "0:2",
+            "Worked": "8:32"
+        },
+        "Dwight Schrute": {
+            "Break time": "0:30",
+            "CheckIn": "07:44",
+            "CheckOut": "17:29",
+            "Over time": "0:45",
+            "Worked": "9:15"
+        },
+        "Kelly Kapoor": {
+            "Break time": "0:0",
+            "CheckIn": "07:51",
+            "CheckOut": "18:04",
+            "Over time": "1:43",
+            "Worked": "10:13"
+        },
+        "Kevin Malone": {
+            "Break time": "0:35",
+            "CheckIn": "09:12",
+            "CheckOut": "19:20",
+            "Over time": "1:3",
+            "Worked": "9:33"
+        },
+        "Meredith Palme": {
+            "Break time": "1:20",
+            "CheckIn": "09:12",
+            "CheckOut": "20:21",
+            "Over time": "1:19",
+            "Worked": "9:49"
+        },
+        "Michael Scott": {
+            "Break time": "0:0",
+            "CheckIn": "06:41",
+            "CheckOut": "16:46",
+            "Over time": "1:35",
+            "Worked": "10:5"
+        },
+        "Nellie Bertram": {
+            "Break time": "0:0",
+            "CheckIn": "07:06",
+            "CheckOut": "15:48",
+            "Over time": "0:12",
+            "Worked": "8:42"
+        },
+        "Oscar Martinez": {
+            "Break time": "0:0",
+            "CheckIn": "10:31",
+            "CheckOut": "19:40",
+            "Over time": "0:39",
+            "Worked": "9:9"
+        },
+        "Phyllis Vance": {
+            "Break time": "0:0",
+            "CheckIn": "09:17",
+            "CheckOut": "14:37",
+            "Over time": "0:0",
+            "Worked": "5:20"
+        },
+        "Ryan Howard": {
+            "Break time": "0:0",
+            "CheckIn": "07:27",
+            "CheckOut": "17:03",
+            "Over time": "1:6",
+            "Worked": "9:36"
+        },
+        "Stanley Hudson": {
+            "Break time": "0:53",
+            "CheckIn": "10:48",
+            "CheckOut": "19:33",
+            "Over time": "0:0",
+            "Worked": "7:52"
+        },
+        "Toby Flenderson": {
+            "Break time": "0:0",
+            "CheckIn": "06:19",
+            "CheckOut": "18:50",
+            "Over time": "4:1",
+            "Worked": "12:31"
+        }
+    },
+    "27.10.2021": {
+        "Andy Bernard": {
+            "Break time": "0:0",
+            "CheckIn": "09:14",
+            "CheckOut": "17:15",
+            "Over time": "0:0",
+            "Worked": "8:1"
+        },
+        "Angela Martin": {
+            "Break time": "0:0",
+            "CheckIn": "09:02",
+            "CheckOut": "17:30",
+            "Over time": "0:0",
+            "Worked": "8:28"
+        },
+        "Creed Bratton": {
+            "Break time": "0:0",
+            "CheckIn": "08:58",
+            "CheckOut": "18:05",
+            "Over time": "0:37",
+            "Worked": "9:7"
+        },
+        "Darryl Philbin": {
+            "Break time": "0:0",
+            "CheckIn": "09:02",
+            "CheckOut": "17:34",
+            "Over time": "0:2",
+            "Worked": "8:32"
+        },
+        "Dwight Schrute": {
+            "Break time": "0:0",
+            "CheckIn": "07:29",
+            "CheckOut": "15:06",
+            "Over time": "0:0",
+            "Worked": "7:37"
+        },
+        "Kelly Kapoor": {
+            "Break time": "0:0",
+            "CheckIn": "08:03",
+            "CheckOut": "17:36",
+            "Over time": "1:3",
+            "Worked": "9:33"
+        },
+        "Kevin Malone": {
+            "Break time": "0:0",
+            "CheckIn": "09:09",
+            "CheckOut": "17:42",
+            "Over time": "0:3",
+            "Worked": "8:33"
+        },
+        "Meredith Palme": {
+            "Break time": "0:0",
+            "CheckIn": "09:09",
+            "CheckOut": "19:00",
+            "Over time": "1:21",
+            "Worked": "9:51"
+        },
+        "Michael Scott": {
+            "Break time": "0:49",
+            "CheckIn": "06:44",
+            "CheckOut": "17:01",
+            "Over time": "0:58",
+            "Worked": "9:28"
+        },
+        "Nellie Bertram": {
+            "Break time": "0:0",
+            "CheckIn": "07:16",
+            "CheckOut": "16:16",
+            "Over time": "0:30",
+            "Worked": "9:0"
+        },
+        "Oscar Martinez": {
+            "Break time": "0:0",
+            "CheckIn": "09:33",
+            "CheckOut": "18:05",
+            "Over time": "0:2",
+            "Worked": "8:32"
+        },
+        "Phyllis Vance": {
+            "Break time": "0:0",
+            "CheckIn": "08:35",
+            "CheckOut": "14:00",
+            "Over time": "0:0",
+            "Worked": "5:25"
+        },
+        "Ryan Howard": {
+            "Break time": "0:0",
+            "CheckIn": "08:01",
+            "CheckOut": "17:00",
+            "Over time": "0:29",
+            "Worked": "8:59"
+        },
+        "Stanley Hudson": {
+            "Break time": "0:0",
+            "CheckIn": "10:54",
+            "CheckOut": "20:32",
+            "Over time": "1:8",
+            "Worked": "9:38"
+        },
+        "Toby Flenderson": {
+            "Break time": "0:0",
+            "CheckIn": "11:24",
+            "CheckOut": "19:31",
+            "Over time": "0:0",
+            "Worked": "8:7"
+        }
+    },
+    "28.10.2021": {
+        "Andy Bernard": {
+            "Break time": "0:0",
+            "CheckIn": "@work",
+            "CheckOut": "@work",
+            "Over time": "0:0",
+            "Worked": "0:0"
+        },
+        "Angela Martin": {
+            "Break time": "0:0",
+            "CheckIn": "09:08",
+            "CheckOut": "12:36",
+            "Over time": "0:0",
+            "Worked": "3:28"
+        },
+        "Creed Bratton": {
+            "Break time": "0:0",
+            "CheckIn": "@work",
+            "CheckOut": "@work",
+            "Over time": "0:0",
+            "Worked": "0:0"
+        },
+        "Darryl Philbin": {
+            "Break time": "0:0",
+            "CheckIn": "@work",
+            "CheckOut": "@work",
+            "Over time": "0:0",
+            "Worked": "0:0"
+        },
+        "Dwight Schrute": {
+            "Break time": "0:0",
+            "CheckIn": "06:57",
+            "CheckOut": "12:48",
+            "Over time": "0:0",
+            "Worked": "5:51"
+        },
+        "Kelly Kapoor": {
+            "Break time": "0:0",
+            "CheckIn": "@work",
+            "CheckOut": "@work",
+            "Over time": "0:0",
+            "Worked": "0:0"
+        },
+        "Kevin Malone": {
+            "Break time": "0:15",
+            "CheckIn": "08:42",
+            "CheckOut": "10:34",
+            "Over time": "0:0",
+            "Worked": "1:37"
+        },
+        "Meredith Palme": {
+            "Break time": "0:0",
+            "CheckIn": "@work",
+            "CheckOut": "@work",
+            "Over time": "0:0",
+            "Worked": "0:0"
+        },
+        "Michael Scott": {
+            "Break time": "0:0",
+            "CheckIn": "07:03",
+            "CheckOut": "12:34",
+            "Over time": "0:0",
+            "Worked": "5:31"
+        },
+        "Nellie Bertram": {
+            "Break time": "0:0",
+            "CheckIn": "@work",
+            "CheckOut": "@work",
+            "Over time": "0:0",
+            "Worked": "0:0"
+        },
+        "Oscar Martinez": {
+            "Break time": "0:0",
+            "CheckIn": "@work",
+            "CheckOut": "@work",
+            "Over time": "0:0",
+            "Worked": "0:0"
+        },
+        "Ryan Howard": {
+            "Break time": "0:0",
+            "CheckIn": "@work",
+            "CheckOut": "@work",
+            "Over time": "0:0",
+            "Worked": "0:0"
+        },
+        "Stanley Hudson": {
+            "Break time": "0:0",
+            "CheckIn": "@work",
+            "CheckOut": "@work",
+            "Over time": "0:0",
+            "Worked": "0:0"
+        },
+        "Toby Flenderson": {
+            "Break time": "0:0",
+            "CheckIn": "@work",
+            "CheckOut": "@work",
+            "Over time": "0:0",
+            "Worked": "0:0"
+        }
+    }
+}
